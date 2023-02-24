@@ -161,7 +161,7 @@ export default class Dashboard extends Component {
                       <span className="direct-chat-name float-right">Sarah Bullock</span>
                       <span className="direct-chat-timestamp float-left">23 Jan 2:05 pm</span>
                     </div>
-                    {/* /.direct-chat-infos */}
+                    {/* /.gghgdirect-chat-infos */}
                     <img className="direct-chat-img" src="dist/img/user3-128x128.jpg" alt="message user image" />
                     {/* /.direct-chat-img */}
                     <div className="direct-chat-text">
@@ -170,7 +170,7 @@ export default class Dashboard extends Component {
                     {/* /.direct-chat-text */}
                   </div>
                   {/* /.direct-chat-msg */}
-                  {/* Message. Default to the left */}
+                  {/* Message. Default to the left & right */}
                   <div className="direct-chat-msg">
                     <div className="direct-chat-infos clearfix">
                       <span className="direct-chat-name float-left">Alexander Pierce</span>
